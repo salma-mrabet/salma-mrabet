@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-mrabet&show_icons=true&theme=dark&locale=en&layout=compact" alt="salma-mrabet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salma-mrabet&show_icons=true&locale=en" alt="salma-mrabet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-mrabet&" alt="salma-mrabet" /></p>
